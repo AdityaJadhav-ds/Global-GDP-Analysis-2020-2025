@@ -8,9 +8,8 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.8-orange.svg)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0.12-blueviolet.svg)
 ![GitHub](https://img.shields.io/badge/Version%20Control-GitHub-black.svg)
-![Top 10 CAGR](https://img.shields.io/badge/Top%2010%20CAGR-2025-green.svg)
-![India Growth](https://img.shields.io/badge/India%20CAGR-2020--25-blue.svg)
-![Visualizations](https://img.shields.io/badge/Visualizations-Ready-orange.svg)
+![India GDP Forecast](https://img.shields.io/badge/India%20GDP%20Forecast-2020--25-blue.svg)  
+  
 ---
 
 ## 📌 Project Overview
@@ -19,19 +18,7 @@ This project provides a **comprehensive analysis of global GDP trends from 2020 
 It uncovers insights on **country-wise GDP growth, CAGR comparisons, and regional economic trends** through **Exploratory Data Analysis (EDA)** and **professional visualizations**.  
 
 🖼️ **Visualizations:** All plots and charts are stored in the `visuals/` folder.  
-## 📊 Visualizations Summary
 
-### 1️⃣ India vs Asian Economies (2020–25)  
-![India vs Asian Economies](visuals/india_vs_asia_trend.png)  
-
-### 2️⃣ India GDP Forecast  
-![India GDP Forecast](visuals/India_gdp_forecast.png)  
-
-### 3️⃣ Top 10 GDP Countries in 2025  
-![Top 10 GDP Countries in 2025](visuals/top_countries_by_gdp_2025.png)  
-
-### 4️⃣ Top Fastest Growing Countries  
-![Top Fastest Growing Countries](visuals/top_fastest_growing_countries.png) 
 ---
 
 ## 📂 Dataset
