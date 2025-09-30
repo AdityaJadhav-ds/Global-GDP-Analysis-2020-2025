@@ -17,7 +17,7 @@ This project provides a **comprehensive analysis of global GDP trends from 2020 
 
 It uncovers insights on **country-wise GDP growth, CAGR comparisons, and regional economic trends** through **Exploratory Data Analysis (EDA)** and **professional visualizations**.  
 
-🖼️ **Visualizations:** All plots and charts are stored in the `visuals/` folder.  
+🖼️ **Visualizations:** All plots and charts are stored in the `visuals/` folder  
 
 ---
 
